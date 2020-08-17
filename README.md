@@ -4,7 +4,7 @@ Dashboard de estoque e comissão de produtos da Mary Kay
 <h3>Dashboard apresentando: </h3>
 <h3>
 <ul>
-  <li>Quantidade de produto; </li>
+  <li>Quantidade de produtos; </li>
   <li>Total em reais por produto; </li>
   <li>Quantidade de produtos X categoria; </li>
   <li>Formas de pagamento em porcentagem; </li>
